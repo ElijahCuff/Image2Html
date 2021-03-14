@@ -8,7 +8,7 @@ After many days testing different methods, i have finally created a method to in
 <?php
 
 // Woke World HTML Image Bypass on GitHub
-$to = 'elijahcuff92@gmail.com';
+$to = 'wokeworld@gmail.com';
 $subject = 'Subject';
 $message = image2html("test.png","png", 5);
 $headers  = 'MIME-Version: 1.0' . "\r\n";
