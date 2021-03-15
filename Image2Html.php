@@ -4,7 +4,7 @@
 
 
 // Set The Information
-$to = 'elijahcuff92@gmail.com';
+$to = 'Woke@gmail.com';
 $from = 'mailer@smtpmail.ml';
 $nameFrom = 'Woke World';
 $replyTo = 'mailer@smtpmail.ml';
