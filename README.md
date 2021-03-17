@@ -1,4 +1,4 @@
-# DivPixel
+# Image 2 HTML 
 ## Email Image Blocking Bypass POC
 ### 2021 First of a kind.
 After many days testing different methods, i have finally created a method to insert images into Gmail using this little gem.
@@ -21,8 +21,12 @@ After many days testing different methods, i have finally created a method to in
 >  The resulting Page very large if the provided image is even small, but the bypass is successful.   
 >  I would recommend nothing larger than 20x20 pixels to be immediately delivered to the email address - Anything Over that seems to need the user to press "Download Full Email" to load the complete image.    
 >  It is almost as useful as pressing "Allow Images".    
+  
+  
+### Simple API Added
 
-```
+
+```  
 <?php
 
 // Woke World HTML Image Bypass POC in PHP
